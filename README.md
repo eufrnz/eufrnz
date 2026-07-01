@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/Group%205.png" width="120" alt="Felipe Fornazeiro Logo"/>
+</p>
 <h1 align="center">Hi 👋, I'm Felipe Fornazeiro</h1>
 
 <h3 align="center">Backend Developer (Java) • Spring Boot • APIs REST</h3>
